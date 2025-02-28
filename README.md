@@ -3,4 +3,4 @@
 Extract PANUNOTT.rar with winrar or other app.
 
 
-Preview.mp4
+https://github.com/jmsoliven/PNT/blob/main/Preview.mp4
